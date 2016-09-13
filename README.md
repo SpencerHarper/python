@@ -1,2 +1,3 @@
 # python
-# This is the class work from GA Intro to Python course
+# GA Intro to Python course
+# OCW Gentle Introduction to Programming
