@@ -1,3 +1,3 @@
-# python
+# Python
 # GA Intro to Python course
-# OCW Gentle Introduction to Programming
+# MIT OCW Gentle Introduction to Programming
