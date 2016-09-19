@@ -32,4 +32,3 @@ def parse_vowel(phrase):
 phrase = raw_input('Enter a string: ')
 
 print parse_vowel(phrase)
-
