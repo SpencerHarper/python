@@ -1,0 +1,7 @@
+strings: series of characters
+
+lists: mutable array of data
+
+tuples: immutable list
+
+dictionary: key & value combination array

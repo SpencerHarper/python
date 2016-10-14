@@ -38,15 +38,12 @@ A=raw_input('Enter a  month: ')
 B=raw_input('Enter a day of month: ')
 X=raw_input('Enter year: ')
 C = int(X[-2:])
-print 'C:', type(C), C
 D = X[0:2]
-print 'D:', type(D), D
 
 A = month_check(lower(A))
 A = int(A)
 B = int(B)
 C = int(year_check(A, C))
-print 'C after year_check():', type(C), C
 D = int(D)
 
 W = (13 * A - 1) / 5
